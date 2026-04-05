@@ -17,19 +17,6 @@ O site explica de forma clara e visual os principais pilares da proteção previ
 - **JavaScript**: Animações de scroll e interatividade suave.
 - **Font Awesome**: Ícones modernos para melhor visualização.
 
-## 📂 Estrutura de Pastas
-
-- `/img`: Contém os assets visuais (Hero, Legal e Clinical).
-- `index.html`: Arquivo principal do site.
-- `style.css`: Folha de estilos com todas as variáveis de design.
-- `script.js`: Lógica para animações.
-
-## 💻 Como executar
-
-1. Clone o repositório ou baixe os arquivos.
-2. Abra o arquivo `index.html` diretamente em seu navegador **OU** utilize um servidor local para uma melhor experiência com as imagens:
-   ```bash
-   npx http-server ./
 
 
 
